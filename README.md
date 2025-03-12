@@ -1,2 +1,3 @@
 # recepie-app-api
-Django Recepie API 
+
+Django Recepie API
